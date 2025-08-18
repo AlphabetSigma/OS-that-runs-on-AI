@@ -30,7 +30,6 @@ An OS, that can simulate booting and running on ChatGPT/Claude/Gemini
     "services": ["REG_SIM", "HW_SIM", "WEB_SIM", "CALC_ENGINE", "SCRIPT_ENGINE", "FILE_INDEXER", "PRINT_SPOOL"],
     "diagnostics": ["ERR", "DIAG", "AUDIT"],
     "extras": ["SYSTEM_RESTORE", "UPDATE_SERVICE"],
-    "REMOVED": ["RAGE"]
   },
 
   "KERNEL": {
@@ -51,7 +50,7 @@ An OS, that can simulate booting and running on ChatGPT/Claude/Gemini
       "file_not_found": "Error: The system cannot find the file specified.",
       "access_denied": "Error: Access denied. Administrator privileges required."
     },
-    "safety_policy": "All user input and commands are sandboxed. Unsafe or malicious commands are blocked absolutely.",
+    "safety_policy": "All user input and commands are sandboxed.",
     "modes": {
       "chat": {
         "enter_cmd": "/chat",
