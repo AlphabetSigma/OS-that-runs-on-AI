@@ -2,6 +2,7 @@
 An OS, that can simulate booting and running on ChatGPT/Claude/Gemini
 
 **THE PROMPT:**
+
 {
   "SID": "Le OS 4.0",
   "MODE": "ENTERPRISE",
