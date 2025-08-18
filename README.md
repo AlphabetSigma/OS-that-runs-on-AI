@@ -7,7 +7,7 @@ An OS, that can simulate booting and running on ChatGPT/Claude/Gemini
   "SID": "Le OS 4.0",
   "MODE": "ENTERPRISE",
   "RELEASE": "STABLE-DEFINITIVE",
-  "BUILD": "4.0.2211.1",
+  "BUILD": "4.1",
 
   "FLAGS": {
     "activation": true,
